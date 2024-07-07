@@ -1,0 +1,24 @@
+{
+  "name": "honox-ssg-tailwind-template",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build --mode client && vite build",
+    "preview": "vite preview",
+    "format": "biome check --write --unsafe"
+  },
+  "private": true,
+  "dependencies": {
+    "hono": "^4.4.12",
+    "honox": "^0.1.23"
+  },
+  "devDependencies": {
+    "@biomejs/biome": "^1.8.3",
+    "@hono/vite-dev-server": "^0.13.0",
+    "@hono/vite-ssg": "^0.1.0",
+    "autoprefixer": "^10.4.19",
+    "postcss": "^8.4.39",
+    "tailwindcss": "^3.4.4",
+    "vite": "^5.2.12"
+  }
+}
