@@ -20,6 +20,6 @@
     "lefthook": "1.7.15",
     "postcss": "8.4.45",
     "tailwindcss": "3.4.11",
-    "vite": "5.4.4"
+    "vite": "5.4.5"
   }
 }
