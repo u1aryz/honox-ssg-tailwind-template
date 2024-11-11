@@ -14,7 +14,7 @@
   },
   "devDependencies": {
     "@biomejs/biome": "1.9.4",
-    "@hono/vite-dev-server": "0.16.0",
+    "@hono/vite-dev-server": "0.17.0",
     "@hono/vite-ssg": "0.1.0",
     "autoprefixer": "10.4.20",
     "lefthook": "1.8.2",
